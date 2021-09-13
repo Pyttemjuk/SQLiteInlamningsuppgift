@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SQLiteInlamningsuppgift</string>
+    <string name="back_button">Tillbaka</string>
+    <string name="name">Namn</string>
+    <string name="shift">Skift</string>
+    <string name="phone_number">Telefonnummer</string>
+    <string name="update">Uppdatera</string>
+    <string name="delete">Ta bort</string>
+    <string name="add">Lägg till</string>
+    <string name="update_information">Uppdatera medarbetares skift och telefonnummmer</string>
+    <string name="show_coworker_text">Välj skift i menyn</string>
+    <string name="show_coworker_button_text">Visa medarbetare</string>
+    <string name="select_shift_text">Välj skift</string>
+    <string name="back_to_main_button">Tillbaka till main</string>
+    <string name="add_coworker_button">Ny medarbetare</string>
+    <string name="add_new_coworker_text">Lägg till en ny medarbetare</string>
+    <string name="search_coworker_text">Sök medarbetare</string>
+    <string name="search_button">Sök</string>
+    <string name="save_preference">Spara valt skift</string>
+</resources>
