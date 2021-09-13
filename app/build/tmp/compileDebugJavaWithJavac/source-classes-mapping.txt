@@ -1,0 +1,36 @@
+com/emiliaengberg/sqliteinlamningsuppgift/Coworker.java
+ com.emiliaengberg.sqliteinlamningsuppgift.Coworker
+com/emiliaengberg/sqliteinlamningsuppgift/AddCoworkerActivity.java
+ com.emiliaengberg.sqliteinlamningsuppgift.AddCoworkerActivity
+ com.emiliaengberg.sqliteinlamningsuppgift.AddCoworkerActivity$1
+ com.emiliaengberg.sqliteinlamningsuppgift.AddCoworkerActivity$2
+com/emiliaengberg/sqliteinlamningsuppgift/CoworkerDBHelper.java
+ com.emiliaengberg.sqliteinlamningsuppgift.CoworkerDBHelper
+com/emiliaengberg/sqliteinlamningsuppgift/MainActivity.java
+ com.emiliaengberg.sqliteinlamningsuppgift.MainActivity
+ com.emiliaengberg.sqliteinlamningsuppgift.MainActivity$1
+ com.emiliaengberg.sqliteinlamningsuppgift.MainActivity$2
+ com.emiliaengberg.sqliteinlamningsuppgift.MainActivity$3
+com/emiliaengberg/sqliteinlamningsuppgift/RecyclerAdapter.java
+ com.emiliaengberg.sqliteinlamningsuppgift.RecyclerAdapter
+ com.emiliaengberg.sqliteinlamningsuppgift.RecyclerAdapter$ViewHolder
+com/emiliaengberg/sqliteinlamningsuppgift/BuildConfig.java
+ com.emiliaengberg.sqliteinlamningsuppgift.BuildConfig
+com/emiliaengberg/sqliteinlamningsuppgift/RecyclerTouchListener.java
+ com.emiliaengberg.sqliteinlamningsuppgift.RecyclerTouchListener
+ com.emiliaengberg.sqliteinlamningsuppgift.RecyclerTouchListener$1
+ com.emiliaengberg.sqliteinlamningsuppgift.RecyclerTouchListener$ClickListener
+com/emiliaengberg/sqliteinlamningsuppgift/CoworkerContract.java
+ com.emiliaengberg.sqliteinlamningsuppgift.CoworkerContract
+ com.emiliaengberg.sqliteinlamningsuppgift.CoworkerContract$CoworkerEntry
+com/emiliaengberg/sqliteinlamningsuppgift/CoworkerDetailsActivity.java
+ com.emiliaengberg.sqliteinlamningsuppgift.CoworkerDetailsActivity
+ com.emiliaengberg.sqliteinlamningsuppgift.CoworkerDetailsActivity$1
+ com.emiliaengberg.sqliteinlamningsuppgift.CoworkerDetailsActivity$2
+ com.emiliaengberg.sqliteinlamningsuppgift.CoworkerDetailsActivity$3
+com/emiliaengberg/sqliteinlamningsuppgift/CoworkerListActivity.java
+ com.emiliaengberg.sqliteinlamningsuppgift.CoworkerListActivity
+ com.emiliaengberg.sqliteinlamningsuppgift.CoworkerListActivity$1
+ com.emiliaengberg.sqliteinlamningsuppgift.CoworkerListActivity$2
+com/emiliaengberg/sqliteinlamningsuppgift/CoworkerProvider.java
+ com.emiliaengberg.sqliteinlamningsuppgift.CoworkerProvider
